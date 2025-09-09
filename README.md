@@ -92,6 +92,7 @@ npm run dev
 📸 Screenshots
 ✨ Add screenshots of your app UI here for better presentation
 
+
 🎯 Future Improvements
 🔐 Add Firebase Authentication
 
